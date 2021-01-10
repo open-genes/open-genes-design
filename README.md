@@ -1,2 +1,2 @@
-# test
+# Open Genes design resources
 
