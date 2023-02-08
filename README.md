@@ -1,8 +1,12 @@
 # Open Genes design resources
 
-Open Genes graphical resources
+Open Genes graphical assets
 
 ## External resources
+
+### Open Genes design system
+https://www.figma.com/file/1xr7Mg2I7ziwjwGVlnZ8Y4/New-gene-card
+
 ### Design guidelines (Figma)
 
 [English](https://www.figma.com/file/nonwZFVQHiyQe4aHvHshwR/Open-Genes-%E2%80%94-Design-guidelines)
